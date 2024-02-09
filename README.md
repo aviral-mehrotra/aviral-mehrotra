@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a first-year student at The University of Chicago studying Computer Science and Economics with a Specialization in Business.<br><br>I am passionate about programming and finance, and I create projects that address real-world problems.<br><br>🔭 I’m currently working on a new iOS app<br>🤝🏽 I’m looking to collaborate on hackathons and research positions<br>🌱 I’m currently learning various algorithms<br>💬 Ask me about my favorite projects and how I started programming<br>⚡ I'm a self-taught programmer and have learned several languages through projects
+I am a first-year student at The University of Chicago studying Computer Science and Economics with a Specialization in Business.<br><br>I am passionate about programming and finance, and I create projects that address real-world problems.<br><br>🔭 I’m currently working on a new iOS app with a target release of Autumn 2024<br>🤝🏽 I’m looking to collaborate on hackathons and research positions<br>🌱 I’m currently learning various algorithms<br>💬 Ask me about my favorite projects and how I started programming<br>⚡ I'm a self-taught programmer and have learned several languages through projects
 
 
 ## 🌐 Socials:
